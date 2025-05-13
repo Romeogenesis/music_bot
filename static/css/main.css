@@ -1,0 +1,72 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  font-size: 14px;
+}
+.v5_39 {
+  width: 402px;
+  height: 874px;
+  background: rgba(4,0,48,1);
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.v143_160 {
+  width: 100%;
+  height: 100%;
+  background: url("../images/v143_160.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 63px;
+  left: 291px;
+  box-shadow: 0px 0px 40px rgba(1, 1, 1, 0.30000001192092896);
+  overflow: hidden;
+}
+.v80_115 {
+  width: 230px;
+  height: 62px;
+  background: rgba(217,217,217,1);
+  opacity: 1;
+  position: absolute;
+  top: 746px;
+  left: 86px;
+  border: 4px solid rgba(255,255,255,1);
+  border-top-left-radius: 50px;
+  border-top-right-radius: 50px;
+  border-bottom-left-radius: 50px;
+  border-bottom-right-radius: 50px;
+  box-shadow: 0px 0px 7px rgba(0, 0.20000000298023224, 1, 1);
+  overflow: hidden;
+}
+.v36_531 {
+  width: 191px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 762px;
+  left: 106px;
+  text-shadow: 0px 0px 6px rgba(0, 0.20000000298023224, 1, 1);
+  font-family: Stalinist One;
+  font-weight: Regular;
+  font-size: 24px;
+  opacity: 1;
+  text-align: center;
+}
+.v146_186 {
+  width: 299px;
+  height: 299px;
+  background: url("../images/v146_186.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 70px;
+  left: 52px;
+  overflow: hidden;
+}

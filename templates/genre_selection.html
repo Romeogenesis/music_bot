@@ -1,0 +1,87 @@
+<!doctype html>
+<html class="no-js" lang="">
+<head>
+    <meta charset="utf-8">
+    <title>Выбор жанров</title>
+    <link href="https://fonts.googleapis.com/css?family=Stalinist+One&display=swap" rel="stylesheet">
+    <link href="static/css/genre_selection.css" rel="stylesheet" />
+</head>
+<body>
+  <div class="i-phone-16-pro-2">
+    <div class="div">ВЫБЕРИ ЖАНРЫ</div>
+    <div class="div2">То, что хотелось бы слушать</div>
+
+    <!-- Кнопки жанров -->
+    <button type="button" class="genre-button component-9" data-genre="Рок">
+      <div class="div3">РОК</div>
+    </button>
+
+    <button type="button" class="genre-button component-28" data-genre="Хип-хоп">
+      <div class="div4">ХИП-ХОП</div>
+    </button>
+
+    <button type="button" class="genre-button component-3" data-genre="Поп">
+      <div class="div5">ПОП</div>
+    </button>
+
+    <button type="button" class="genre-button component-282" data-genre="Джаз">
+      <div class="component-283">
+        <div class="div6">ДЖАЗ</div>
+      </div>
+    </button>
+
+    <button type="button" class="genre-button component-8" data-genre="Реп">
+      <div class="div7">РЕП</div>
+    </button>
+
+    <button type="button" class="genre-button component-284" data-genre="Фанк">
+      <div class="div8">ФОНК</div>
+    </button>
+
+    <button type="button" class="genre-button component-285" data-genre="Инди">
+      <div class="component-283">
+        <div class="div9">ИНДИ</div>
+      </div>
+    </button>
+
+    <button type="button" class="genre-button component-27" data-genre="Метал">
+      <div class="div10">МЕТАЛ</div>
+    </button>
+
+    <!-- Кнопка "OK" -->
+    <div>
+      <a href="{{ url_for('wave') }}" class="ok ok-button">OK</a>
+    </div>
+    <div id="bottom"></div> <!-- Якорь для прокрутки вниз -->
+  </div>
+
+  <script>
+    const genreButtons = document.querySelectorAll('.genre-button');
+    const okButton = document.querySelector('.ok-button');
+    let selectedGenres = [];
+
+    genreButtons.forEach(button => {
+      button.addEventListener('click', () => {
+        const genre = button.dataset.genre;
+        button.classList.toggle('active');
+
+        if (button.classList.contains('active')) {
+          selectedGenres.push(genre);
+        } else {
+          selectedGenres = selectedGenres.filter(g => g !== genre); // Удаляем жанр из массива
+        }
+
+        console.log('Выбранные жанры:', selectedGenres); // Для отладки
+      });
+    });
+
+    okButton.addEventListener('click', () => {
+      // Сохраняем выбранные жанры (например, в localStorage)
+      localStorage.setItem('selectedGenres', JSON.stringify(selectedGenres));
+
+      // Переходим на другую страницу
+      window.location.href = 'new_page.html'; // Замените на URL вашей новой страницы
+    });
+  </script>
+</body>
+</html>

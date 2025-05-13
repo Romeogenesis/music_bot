@@ -1,0 +1,708 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  font-size: 14px;
+}
+.v148_186 {
+  width: 402px;
+  height: 1073px;
+  background: rgba(4,0,48,1);
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.v148_215 {
+  width: 418px;
+  height: 418px;
+  background: url("../images/v148_215.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 11px;
+  left: 8px;
+  overflow: hidden;
+}
+.v148_217 {
+  width: 77px;
+  height: 77px;
+  background: url("../images/v148_217.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 513px;
+  left: 15px;
+  overflow: hidden;
+}
+.v148_219 {
+  width: 77px;
+  height: 77px;
+  background: url("../images/v148_219.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 606px;
+  left: 15px;
+  overflow: hidden;
+}
+.v148_221 {
+  width: 77px;
+  height: 77px;
+  background: url("../images/v148_221.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 697px;
+  left: 15px;
+  overflow: hidden;
+}
+.v148_225 {
+  width: 457px;
+  height: 160px;
+  background: rgba(4,0,48,1);
+  opacity: 1;
+  position: absolute;
+  top: 246px;
+  left: 38px;
+}
+.v149_207 {
+  width: 316px;
+  height: 183px;
+  background: url("../images/v149_207.png");
+  opacity: 1;
+  position: absolute;
+  top: 601px;
+  left: 73px;
+  border: 1px solid rgba(255,255,255,0.5);
+}
+.v155_522 {
+  width: 316px;
+  height: 183px;
+  background: url("../images/v155_522.png");
+  opacity: 1;
+  position: absolute;
+  top: 878px;
+  left: 73px;
+  border: 1px solid rgba(255,255,255,0.5);
+}
+.name {
+  color: #fff;
+}
+.name {
+  color: #fff;
+}
+.name {
+  color: #fff;
+}
+.name {
+  color: #fff;
+}
+.name {
+  color: #fff;
+}
+.name {
+  color: #fff;
+}
+.name {
+  color: #fff;
+}
+.name {
+  color: #fff;
+}
+.v149_230 {
+  width: 189px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 475px;
+  left: 114px;
+  text-shadow: 0px 0px 50px rgba(0.8705882430076599, 0.6431372761726379, 0.0117647061124444, 1);
+  font-family: Stalinist One;
+  font-weight: Regular;
+  font-size: 20px;
+  opacity: 1;
+  text-align: left;
+}
+.v149_239 {
+  width: 189px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 287px;
+  left: 16px;
+  text-shadow: 0px 0px 17px rgba(1, 1, 1, 1);
+  font-family: Stalinist One;
+  font-weight: Regular;
+  font-size: 20px;
+  opacity: 1;
+  text-align: left;
+}
+.v149_323 {
+  width: 189px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 697px;
+  left: 98px;
+  font-family: Stalinist One;
+  font-weight: Regular;
+  font-size: 20px;
+  opacity: 1;
+  text-align: left;
+}
+.v149_319 {
+  width: 189px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 513px;
+  left: 98px;
+  font-family: Stalinist One;
+  font-weight: Regular;
+  font-size: 20px;
+  opacity: 1;
+  text-align: left;
+}
+.v149_321 {
+  width: 189px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 608px;
+  left: 98px;
+  font-family: Stalinist One;
+  font-weight: Regular;
+  font-size: 20px;
+  opacity: 1;
+  text-align: left;
+}
+.v149_241 {
+  width: 189px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 331px;
+  left: 16px;
+  text-shadow: 0px 0px 17px rgba(1, 1, 1, 1);
+  font-family: Stalinist One;
+  font-weight: Regular;
+  font-size: 16px;
+  opacity: 1;
+  text-align: left;
+}
+.v149_329 {
+  width: 189px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 740px;
+  left: 98px;
+  font-family: Stalinist One;
+  font-weight: Regular;
+  font-size: 16px;
+  opacity: 1;
+  text-align: left;
+}
+.v155_517 {
+  width: 77px;
+  height: 77px;
+  background: url("../images/v155_517.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 790px;
+  left: 15px;
+  overflow: hidden;
+}
+.v155_518 {
+  width: 189px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 790px;
+  left: 98px;
+  font-family: Stalinist One;
+  font-weight: Regular;
+  font-size: 20px;
+  opacity: 1;
+  text-align: left;
+}
+.v155_519 {
+  width: 189px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 826px;
+  left: 98px;
+  font-family: Stalinist One;
+  font-weight: Regular;
+  font-size: 16px;
+  opacity: 1;
+  text-align: left;
+}
+.v155_524 {
+  width: 77px;
+  height: 77px;
+  background: url("../images/v155_524.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 885px;
+  left: 15px;
+  overflow: hidden;
+}
+.v155_525 {
+  width: 189px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 885px;
+  left: 98px;
+  font-family: Stalinist One;
+  font-weight: Regular;
+  font-size: 20px;
+  opacity: 1;
+  text-align: left;
+}
+.v155_526 {
+  width: 189px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 921px;
+  left: 98px;
+  font-family: Stalinist One;
+  font-weight: Regular;
+  font-size: 16px;
+  opacity: 1;
+  text-align: left;
+}
+.v155_531 {
+  width: 77px;
+  height: 77px;
+  background: url("../images/v155_531.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 978px;
+  left: 15px;
+  overflow: hidden;
+}
+.v155_532 {
+  width: 189px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 978px;
+  left: 98px;
+  font-family: Stalinist One;
+  font-weight: Regular;
+  font-size: 20px;
+  opacity: 1;
+  text-align: left;
+}
+.v155_533 {
+  width: 189px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 1014px;
+  left: 98px;
+  font-family: Stalinist One;
+  font-weight: Regular;
+  font-size: 16px;
+  opacity: 1;
+  text-align: left;
+}
+.v149_327 {
+  width: 189px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 653px;
+  left: 98px;
+  font-family: Stalinist One;
+  font-weight: Regular;
+  font-size: 16px;
+  opacity: 1;
+  text-align: left;
+}
+.v149_325 {
+  width: 189px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 554px;
+  left: 98px;
+  font-family: Stalinist One;
+  font-weight: Regular;
+  font-size: 16px;
+  opacity: 1;
+  text-align: left;
+}
+.i-phone-16-pro-7,
+.i-phone-16-pro-7 * {
+  box-sizing: border-box;
+}
+.i-phone-16-pro-7 {
+  background: #040031;
+  height: 874px;
+  position: relative;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  overflow: hidden;
+}
+._3 {
+  background: #ffffff;
+  border-radius: 50px;
+  border-style: solid;
+  border-color: #ffffff;
+  border-width: 4px;
+  width: 53px;
+  height: 36px;
+  position: absolute;
+  left: 343px;
+  top: 52px;
+  box-shadow: 0px 0px 7.95px 0px rgba(0, 51, 255, 1),
+    0px 0px 15.9px 0px rgba(0, 51, 255, 1),
+    0px 0px 55.64px 0px rgba(0, 51, 255, 1),
+    0px 0px 111.28px 0px rgba(0, 51, 255, 1),
+    0px 0px 190.77px 0px rgba(0, 51, 255, 1),
+    0px 0px 250px 0px rgba(0, 51, 255, 1);
+}
+.music-note {
+  background: url("../images/music-note.png");
+  background-size: cover;
+  width: 36px;
+  height: 36px;
+  position: absolute;
+  left: 34px;
+  top: 817px;
+  overflow: visible;
+}
+.person {
+  background: url("../images/person.png");
+  background-size: cover;
+  width: 36px;
+  height: 36px;
+  position: absolute;
+  left: 329px;
+  top: 815px;
+  overflow: visible;
+}
+.magnifier {
+  background: url("../images/magnifier.png");
+  background-size: cover;
+  width: 36px;
+  height: 36px;
+  position: absolute;
+  left: 182px;
+  top: 814px;
+  overflow: visible;
+}
+.magnifier2 {
+  background: url("../images/magnifier.png");
+  background-size: cover;
+  width: 31px;
+  height: 31px;
+  position: absolute;
+  left: 354px;
+  top: 55px;
+  overflow: visible;
+}
+.div {
+  color: #ffffff;
+  text-align: left;
+  font-family: Stalinist One;
+  font-weight: Regular;
+  font-size: 20px;
+  position: absolute;
+  left: 16px;
+  top: 131px;
+}
+.div2 {
+  color: #ffffff;
+  text-align: left;
+  font-family: Stalinist One;
+  font-weight: Regular;
+  font-size: 20px;
+  position: absolute;
+  left: 16px;
+  top: 337px;
+}
+.line-5 {
+  margin-top: -1px;
+  border-style: solid;
+  border-color: rgba(255, 255, 255, 0.75);
+  border-width: 1px 0 0 0;
+  width: 402px;
+  height: 0px;
+  position: absolute;
+  left: 0px;
+  top: 801px;
+  transform-origin: 0 0;
+  transform: rotate(-0.149deg) scale(1, 1);
+}
+.div3 {
+  color: #ffffff;
+  text-align: left;
+  font-family: Stalinist One;
+  font-weight: Regular;
+  font-size: 12px;
+  letter-spacing: 0.2em;
+  position: absolute;
+  left: 29px;
+  top: 61px;
+}
+._2 {
+  border-radius: 50px;
+  border-style: solid;
+  border-color: #ffffff;
+  border-width: 4px;
+  width: 331px;
+  height: 36px;
+  position: absolute;
+  left: 7px;
+  top: 52px;
+  box-shadow: 0px 0px 7.95px 0px rgba(0, 51, 255, 1),
+    0px 0px 15.9px 0px rgba(0, 51, 255, 1),
+    0px 0px 55.64px 0px rgba(0, 51, 255, 1),
+    0px 0px 111.28px 0px rgba(0, 51, 255, 1),
+    0px 0px 190.77px 0px rgba(0, 51, 255, 1),
+    0px 0px 250px 0px rgba(0, 51, 255, 1);
+}
+.component-22 {
+  background: url("../images/Component 22.png");
+  background-size: cover;
+  width: 980px;
+  height: 136px;
+  position: absolute;
+  left: -34px;
+  top: 173px;
+  overflow: visible;
+}
+.image-24 {
+  background: url("../images/v155_436.png");
+  background-size: cover;
+  width: 77px;
+  height: 77px;
+  position: absolute;
+  left: 16px;
+  top: 390px;
+  object-fit: cover;
+  aspect-ratio: 1;
+}
+.component-31 {
+  background: url("../images/v00_01.png");
+  background-size: cover;
+  width: 55px;
+  height: 55px;
+  position: absolute;
+  left: 284px;
+  top: 400px;
+}
+.rectangle-35 {
+  background: #d9d9d9;
+  opacity: 0;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  right: 0%;
+  left: 0%;
+  bottom: 0%;
+  top: 0%;
+}
+.component-32 {
+  background: url("../images/v00_01.png");
+  background-size: cover;
+  width: 55px;
+  height: 55px;
+  position: absolute;
+  left: 284px;
+  top: 499px;
+}
+.component-33 {
+  background: url("../images/v00_01.png");
+  background-size: cover;
+  width: 55px;
+  height: 55px;
+  position: absolute;
+  left: 284px;
+  top: 585px;
+}
+.component-34 {
+  background: url("../images/v00_01.png");
+  background-size: cover;
+  width: 55px;
+  height: 55px;
+  position: absolute;
+  left: 284px;
+  top: 687px;
+}
+.image-25 {
+  background: url("../images/v155_436.png");
+  background-size: cover;
+  width: 77px;
+  height: 77px;
+  position: absolute;
+  left: 16px;
+  top: 483px;
+  object-fit: cover;
+  aspect-ratio: 1;
+}
+.image-26 {
+  background: url("../images/v155_436.png");
+  background-size: cover;
+  width: 77px;
+  height: 77px;
+  position: absolute;
+  left: 16px;
+  top: 574px;
+  object-fit: cover;
+  aspect-ratio: 1;
+}
+.line-14 {
+  background: url("../images/Line 14.png");
+  background-size: cover;
+  width: 316.5px;
+  height: 183.5px;
+  position: absolute;
+  left: 74px;
+  top: 478px;
+  overflow: visible;
+}
+.auth-3 {
+  color: #ffffff;
+  text-align: left;
+  font-family: Stalinist One;
+  font-weight: Regular;
+  font-size: 20px;
+  position: absolute;
+  left: 99px;
+  top: 574px;
+  width: 189px;
+}
+.autho-2 {
+  color: #ffffff;
+  text-align: left;
+  font-family: Stalinist One;
+  font-weight: Regular;
+  font-size: 20px;
+  position: absolute;
+  left: 99px;
+  top: 485px;
+  width: 189px;
+}
+.author-1 {
+  color: #ffffff;
+  text-align: left;
+  font-family: Stalinist One;
+  font-weight: Regular;
+  font-size: 20px;
+  position: absolute;
+  left: 99px;
+  top: 399px;
+  width: 189px;
+}
+.songs-name {
+  color: #ffffff;
+  text-align: left;
+  font-family: Stalinist One;
+  font-weight: Regular;
+  font-size: 16px;
+  position: absolute;
+  left: 99px;
+  top: 530px;
+  width: 189px;
+}
+.songs-name2 {
+  color: #ffffff;
+  text-align: left;
+  font-family: Stalinist One;
+  font-weight: Regular;
+  font-size: 16px;
+  position: absolute;
+  left: 99px;
+  top: 616px;
+  width: 189px;
+}
+.songs-name3 {
+  color: #ffffff;
+  text-align: left;
+  font-family: Stalinist One;
+  font-weight: Regular;
+  font-size: 16px;
+  position: absolute;
+  left: 99px;
+  top: 431px;
+  width: 189px;
+}
+.image-27 {
+  background: url("../images/v155_436.png");
+  background-size: cover;
+  width: 77px;
+  height: 77px;
+  position: absolute;
+  left: 16px;
+  top: 676px;
+  object-fit: cover;
+  aspect-ratio: 1;
+}
+.au-4 {
+  color: #ffffff;
+  text-align: left;
+  font-family: Stalinist One;
+  font-weight: Regular;
+  font-size: 20px;
+  position: absolute;
+  left: 99px;
+  top: 676px;
+  width: 189px;
+}
+.songs-name4 {
+  color: #ffffff;
+  text-align: left;
+  font-family: Stalinist One;
+  font-weight: Regular;
+  font-size: 16px;
+  position: absolute;
+  left: 99px;
+  top: 718px;
+  width: 189px;
+}
+.heart {
+  background: url("../images/Heart.png");
+  background-size: cover;
+  width: 41px;
+  height: 40px;
+  position: absolute;
+  left: 348px;
+  top: 698px;
+}
+.heart3 {
+  background: url("../images/Heart.png");
+  background-size: cover;
+  width: 41px;
+  height: 40px;
+  position: absolute;
+  left: 345px;
+  top: 596px;
+}
+.heart5 {
+  background: url("../images/Heart.png");
+  background-size: cover;
+  width: 41px;
+  height: 40px;
+  position: absolute;
+  left: 348px;
+  top: 507px;
+}
+.heart7 {
+  background: url("../images/Heart.png");
+  background-size: cover;
+  width: 41px;
+  height: 40px;
+  position: absolute;
+  left: 348px;
+  top: 409px;
+}

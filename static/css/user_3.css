@@ -1,0 +1,189 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  font-size: 14px;
+}
+.v155_346 {
+  width: 402px;
+  height: 874px;
+  background: rgba(4,0,48,1);
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.name {
+  color: #fff;
+}
+.name {
+  color: #fff;
+}
+.name {
+  color: #fff;
+}
+.v155_350 {
+  width: 402px;
+  background: url("../images/v155_350.png");
+  opacity: 1;
+  position: absolute;
+  top: 801px;
+  left: 0px;
+  border: 1px solid rgba(255,255,255,0.75);
+}
+.v155_351 {
+  width: 127px;
+  height: 127px;
+  background: url("../images/v155_351.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 65px;
+  left: 137px;
+  border: 1px solid rgba(255,255,255,1);
+  border-top-left-radius: 500px;
+  border-top-right-radius: 500px;
+  border-bottom-left-radius: 500px;
+  border-bottom-right-radius: 500px;
+  overflow: hidden;
+}
+.v155_355 {
+  width: 281px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 201px;
+  left: 60px;
+  text-shadow: 0px 0px 11px rgba(1, 1, 1, 1);
+  font-family: Stalinist One;
+  font-weight: Regular;
+  font-size: 16px;
+  opacity: 1;
+  text-align: left;
+}
+.v155_400 {
+  width: 305px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 741px;
+  left: 48px;
+  text-shadow: 0px 0px 17px rgba(1, 1, 1, 1);
+  font-family: Stalinist One;
+  font-weight: Regular;
+  font-size: 20px;
+  opacity: 1;
+  text-align: left;
+}
+.rectangle-24 {
+  border-radius: 50px;
+  border-style: solid;
+  border-color: rgba(255, 255, 255, 0.5);
+  border-width: 4px;
+  width: 128px;
+  height: 62px;
+  position: absolute;
+  left: 6px;
+  top: 253px;
+  box-shadow: 0px 0px 7.95px 0px rgba(0, 51, 255, 1),
+    0px 0px 15.9px 0px rgba(0, 51, 255, 1),
+    0px 0px 55.64px 0px rgba(0, 51, 255, 1),
+    0px 0px 111.28px 0px rgba(0, 51, 255, 1),
+    0px 0px 190.77px 0px rgba(0, 51, 255, 1),
+    0px 0px 250px 0px rgba(0, 51, 255, 1);
+}
+.rectangle-26 {
+  border-radius: 50px;
+  border-style: solid;
+  border-color: #ffffff;
+  border-width: 4px;
+  width: 128px;
+  height: 62px;
+  position: absolute;
+  left: 268px;
+  top: 253px;
+  box-shadow: 0px 0px 7.95px 0px rgba(0, 51, 255, 1),
+    0px 0px 15.9px 0px rgba(0, 51, 255, 1),
+    0px 0px 55.64px 0px rgba(0, 51, 255, 1),
+    0px 0px 111.28px 0px rgba(0, 51, 255, 1),
+    0px 0px 190.77px 0px rgba(0, 51, 255, 1),
+    0px 0px 250px 0px rgba(0, 51, 255, 1);
+}
+.rectangle-25 {
+  border-radius: 50px;
+  border-style: solid;
+  border-color: rgba(255, 255, 255, 0.5);
+  border-width: 4px;
+  width: 128px;
+  height: 62px;
+  position: absolute;
+  left: 137px;
+  top: 253px;
+  box-shadow: 0px 0px 7.95px 0px rgba(0, 51, 255, 1),
+    0px 0px 15.9px 0px rgba(0, 51, 255, 1),
+    0px 0px 55.64px 0px rgba(0, 51, 255, 1),
+    0px 0px 111.28px 0px rgba(0, 51, 255, 1),
+    0px 0px 190.77px 0px rgba(0, 51, 255, 1),
+    0px 0px 250px 0px rgba(0, 51, 255, 1);
+}
+.music-note {
+  background: url("../images/music-note.png");
+  background-size: cover;
+  width: 36px;
+  height: 36px;
+  position: absolute;
+  left: 34px;
+  top: 817px;
+  overflow: visible;
+}
+.person {
+  background: url("../images/person.png");
+  background-size: cover;
+  width: 36px;
+  height: 36px;
+  position: absolute;
+  left: 329px;
+  top: 815px;
+  overflow: visible;
+}
+.magnifier {
+  background: url("../images/magnifier.png");
+  background-size: cover;
+  width: 36px;
+  height: 36px;
+  position: absolute;
+  left: 182px;
+  top: 814px;
+  overflow: visible;
+}
+.pin {
+  background: url("../images/pin.png");
+  background-size: cover;
+  width: 36px;
+  height: 36px;
+  position: absolute;
+  left: 67.93px;
+  top: 259px;
+  overflow: visible;
+}
+.bars-play {
+  background: url("../images/bars-play.png");
+  background-size: cover;
+  width: 36px;
+  height: 36px;
+  position: absolute;
+  left: 183px;
+  top: 267px;
+  overflow: visible;
+}
+.nut-hex {
+  background: url("../images/nut-hex.png");
+  background-size: cover;
+  width: 36px;
+  height: 36px;
+  position: absolute;
+  left: 314px;
+  top: 265px;
+  overflow: visible;
+}

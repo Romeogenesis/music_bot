@@ -1,0 +1,291 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  font-size: 14px;
+}
+.v5_45 {
+  width: 402px;
+  height: 874px;
+  background: rgba(4,0,48,1);
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.v66_123 {
+  width: 86px;
+  height: 86px;
+  background: url("../images/v66_123.png");
+  opacity: 1;
+  position: absolute;
+  top: 494px;
+  left: 157px;
+  border-radius: 50%;
+  box-shadow: 0px 0px 30px rgba(1, 1, 1, 1);
+}
+.v36_532 {
+  width: 330px;
+  height: 330px;
+  background: rgba(217,217,217,1);
+  opacity: 1;
+  position: absolute;
+  top: 138px;
+  left: 643px;
+}
+.name {
+  color: #fff;
+}
+.name {
+  color: #fff;
+}
+.name {
+  color: #fff;
+}
+.name {
+  color: #fff;
+}
+.name {
+  color: #fff;
+}
+.name {
+  color: #fff;
+}
+.name {
+  color: #fff;
+}
+.name {
+  color: #fff;
+}
+.v331_539 {
+  width: 189px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 590px;
+  left: 110px;
+  font-family: Stalinist One;
+  font-weight: Regular;
+  font-size: 16px;
+  opacity: 1;
+  text-align: left;
+}
+.name {
+  color: #fff;
+}
+.v149_189 {
+  width: 180px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 726px;
+  left: 110px;
+  text-shadow: 0px 0px 31px rgba(0.501960813999176, 0.4000000059604645, 1, 1);
+  font-family: Stalinist One;
+  font-weight: Regular;
+  font-size: 16px;
+  opacity: 1;
+  text-align: center;
+}
+.name {
+  color: #fff;
+}
+.name {
+  color: #fff;
+}
+.v210_322 {
+  width: 371px;
+  height: 371px;
+  background: url("../images/v210_322.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 50px;
+  left: 15px;
+  box-shadow: 0px 0px 1px rgba(0.3137255012989044, 0, 1, 1);
+  overflow: hidden;
+}
+.ellipse-2 {
+  border-radius: 50%;
+  border-style: solid;
+  border-color: #ffffff;
+  border-width: 3px;
+  width: 86px;
+  height: 86px;
+  position: absolute;
+  left: 157px;
+  top: 494px;
+  box-shadow: 0px 0px 30px 0px rgba(255, 255, 255, 1),
+    0px 0px 15px 0px rgba(82, 0, 255, 1);
+}
+.rectangle-13 {
+  width: 330px;
+  height: 330px;
+  position: absolute;
+  left: 643px;
+  top: 138px;
+  overflow: visible;
+}
+.music-note {
+  background: url("../images/music-note.png");
+  background-size: cover;
+  width: 36px;
+  height: 36px;
+  position: absolute;
+  left: 34px;
+  top: 817px;
+  overflow: visible;
+}
+.person {
+  background: url("../images/person.png");
+  background-size: cover;
+  width: 36px;
+  height: 36px;
+  position: absolute;
+  left: 329px;
+  top: 815px;
+  overflow: visible;
+}
+.magnifier {
+  background: url("../images/magnifier.png");
+  background-size: cover;
+  width: 36px;
+  height: 36px;
+  position: absolute;
+  left: 182px;
+  top: 814px;
+  overflow: visible;
+}
+.line-3 {
+  margin-top: -1px;
+  border-style: solid;
+  border-color: rgba(255, 255, 255, 0.75);
+  border-width: 1px 0 0 0;
+  width: 402px;
+  height: 0px;
+  position: absolute;
+  left: 0px;
+  top: 801px;
+  transform-origin: 0 0;
+  transform: rotate(-0.149deg) scale(1, 1);
+}
+.line-8 {
+  margin-top: -1px;
+  border-style: solid;
+  border-color: rgba(255, 255, 255, 0.5);
+  border-width: 1px 0 0 0;
+  width: 360px;
+  height: 0px;
+  position: absolute;
+  left: 21px;
+  top: 460px;
+}
+.line-9 {
+  margin-top: -1.2px;
+  border-style: solid;
+  border-color: #ffffff;
+  border-width: 1.2px 0 0 0;
+  width: 240px;
+  height: 0px;
+  position: absolute;
+  left: 21px;
+  top: 460px;
+  box-shadow: 0px 0px 5.3px 0px rgba(80, 0, 255, 1),
+    0px 0px 10.6px 0px rgba(80, 0, 255, 1),
+    0px 0px 37.09px 0px rgba(80, 0, 255, 1),
+    0px 0px 74.19px 0px rgba(80, 0, 255, 1),
+    0px 0px 127.18px 0px rgba(80, 0, 255, 1),
+    0px 0px 222.57px 0px rgba(80, 0, 255, 1);
+}
+.play-arrow {
+  width: 83px;
+  height: 83px;
+  position: absolute;
+  left: 158px;
+  top: 495px;
+}
+._1 {
+  background: url("../images/1.png");
+  background-size: cover;
+  width: 55px;
+  height: 55px;
+  position: absolute;
+  left: 178px;
+  top: 509px;
+}
+.rectangle-35 {
+  opacity: 0;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  right: 0%;
+  left: 0%;
+  bottom: 0%;
+  top: 0%;
+}
+.song-13 {
+  color: #ffffff;
+  text-align: left;
+  font-family: Stalinist One;
+  font-weight: Regular;
+  font-size: 16px;
+  position: absolute;
+  left: 110px;
+  top: 590px;
+  width: 189px;
+}
+.chevron-up-wide {
+  width: 56px;
+  height: 56px;
+  position: absolute;
+  left: 173px;
+  top: 801px;
+  transform: translate(0px, -56px);
+  overflow: visible;
+}
+.div {
+  color: #ffffff;
+  text-align: center;
+  font-family: Stalinist One;
+  font-weight: Regular;
+  font-size: 16px;
+  position: absolute;
+  left: 110px;
+  top: 726px;
+  width: 180px;
+}
+.arrow_forward2 {
+  background: url("../images/arrow_forward2.png");
+  background-size: cover;
+  width: 77px;
+  height: 77px;
+  left: 309px;
+  top: 563px;
+  position: absolute;
+  overflow: visible;
+}
+.arrow_forward {
+  background: url("../images/arrow_forward.png");
+  background-size: cover;
+  width: 77px;
+  height: 77px;
+  position: absolute;
+  left: 90px;
+  top: 563px;
+  overflow: visible;
+}
+.noise-texture {
+  width: 371px;
+  height: 371px;
+  position: absolute;
+  left: 15px;
+  top: 50px;
+  box-shadow: 0px 0px 1.07px 0px rgba(80, 0, 255, 1),
+    0px 0px 2.14px 0px rgba(80, 0, 255, 1),
+    0px 0px 7.48px 0px rgba(80, 0, 255, 1),
+    0px 0px 14.96px 0px rgba(80, 0, 255, 1),
+    0px 0px 25.64px 0px rgba(80, 0, 255, 1),
+    0px 0px 44.88px 0px rgba(80, 0, 255, 1);
+  object-fit: cover;
+}
